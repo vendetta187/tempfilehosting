@@ -1,0 +1,25 @@
+Hai semuanya saya balik lagi
+
+Kali ini saya akan share deface metode Temp File Hosting
+
+Oke langsung aja
+
+Pertama tama kalian dorking terlebih dahulu menggunakan dork di bawah ini
+
+Dork : "intitle:Temp File Hosting"
+
+Selanjutnya kalian tinggal dorking deh site nya, tapi disini saya punya live target yang bisa kalian coba. 
+Live Target : https://gomi.pisekot.ru/
+              https://doxed.xyz/
+               
+Selanjutnya tinggal kalian upload file kalian, entah itu script deface ataupun shell backdoor.
+
+Klik upload dan nanti akan ada link yang mengarahkan ke file yang sudah kalian upload.
+
+Tinggal kalian buka deh link nya.
+Contoh : 
+https://doxed.xyz/files/3qW71z6pjMZ2.txt
+
+Oke mungkin cukup sekian tutorial yang saya bagikan ini...
+
+Mr.Vendetta_404 - Indonesian Code Party
